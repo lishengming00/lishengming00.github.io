@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/lishengming00/lishengming00.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lishengming00/lishengming00.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# lishengming
+## Welcome to lishengming GitHub Pages
+## 求职意向 : JavaWeb开发师
+### 基本资料
+* 姓名:李胜明
+* 性别:男
+* 年龄:21
+* 学校:石家庄铁道大学
+* 专业:计算机科学与技术学院
+* 手机号码:15630199851
+* 电子邮箱:839018814@qq.com      
+* Github 地址:[https://github.com/lishengming00](https://github.com/Freshmansolo)
+### 个人技能
+* 熟悉使用 JavaScript 对网页进行动态操纵, 会使用 ajax 与后端通过 json 进行数据交互   
+* 了解 HTML5, 对 Web 标准、语义化相关概念有一定的理解   
+* 熟悉 Mysql 数据库相关的基本概念以及相关操作(查询、删除、更新)等  
+* 大一获得奖学金 
+### 自我评价
+1.性格热情开朗，待人友好，为人诚实谦虚，学习刻苦，能吃苦耐劳，具有亲和力，平易近人，善于与人沟通
+2.愿意接受新的挑战，希望其他人也能够积极投入。
+3.能够很快融入一个新的集体环境。
+4.数学方面知识掌握牢固，逻辑性强，善于分析。
